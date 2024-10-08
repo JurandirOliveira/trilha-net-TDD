@@ -1,0 +1,15 @@
+C:\dotnet\trilha-net-TDD\Calculadora\bin\Debug\net6.0\Calculadora.exe
+C:\dotnet\trilha-net-TDD\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\dotnet\trilha-net-TDD\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\dotnet\trilha-net-TDD\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\dotnet\trilha-net-TDD\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\dotnet\trilha-net-TDD\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\dotnet\trilha-net-TDD\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\trilha-net-TDD\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\dotnet\trilha-net-TDD\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\dotnet\trilha-net-TDD\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\dotnet\trilha-net-TDD\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\dotnet\trilha-net-TDD\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+C:\dotnet\trilha-net-TDD\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\dotnet\trilha-net-TDD\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+C:\dotnet\trilha-net-TDD\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
